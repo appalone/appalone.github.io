@@ -3,6 +3,13 @@ theme: jekyll-theme-minimal
 title: appalone.com
 title_home: Home # ea: added 
 
+copyright: >- # this means to ignore newlines until "baseurl:"
+  Copyright © 2021 Aleksandr Arutiunian. All rights reserved.
+
+# TODO: to replace description variable with "trademark"
+description: >- # this means to ignore newlines until "baseurl:"
+  All other trademarks are properties of their respective owners.
+
 header_pages:
    - support.md
    - privacy-website.md
