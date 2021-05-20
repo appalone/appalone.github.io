@@ -1,4 +1,10 @@
+theme: jekyll-theme-minimal
+
 title: appalone.com
 title_home: Home # ea: added 
 
-theme: jekyll-theme-minimal
+
+header_pages:
+   - support.md
+   - privacy-website.md
+   - impressum.md
