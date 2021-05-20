@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 title: appalone.com
 title_home: Home # ea: added 
 
-
 header_pages:
    - support.md
    - privacy-website.md
