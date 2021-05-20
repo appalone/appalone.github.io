@@ -1,8 +1,5 @@
 ---
 layout: post
-#title:  "Hallo to Jekyll!"
-#date:   2018-07-01
-#categories: jekyll update
 ---
 
 
