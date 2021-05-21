@@ -7,7 +7,7 @@ layout: post
 
 
 
-<iframe width="100%" height="100%" src="https://www.iubenda.com/privacy-policy/49479223/legal?ifr=true&newmarkup=yes" frameborder="0"></iframe>
+<iframe width="100%" height="100%" src="https://www.iubenda.com/private/privacy-policy/1947126/legal?preview=true&ifr=true&newmarkup=yes&an=no" frameborder="0"></iframe>
 
 
 
